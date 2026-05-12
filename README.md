@@ -140,6 +140,3 @@ Central University of Karnataka
 
 ---
 
-## 🙏 Acknowledgment
-
-Special thanks to my mentor and faculty members for their guidance and support during the internship.
